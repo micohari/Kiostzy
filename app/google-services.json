@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "249084996880",
+    "project_id": "kiostzy",
+    "storage_bucket": "kiostzy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249084996880:android:f3356a854905f37ed94995",
+        "android_client_info": {
+          "package_name": "com.kiostzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249084996880-d2pfsfkn0nhl60bmmta9sv68qlhs7heb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiostzy",
+            "certificate_hash": "9c198771d0c41958681ca27f31179db583791cc2"
+          }
+        },
+        {
+          "client_id": "249084996880-msffbmqvgov7n6v5nfmvhakkt08gjgf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6KkIHZWWRTyDEVgUHM6qxSR7HrLmFsOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249084996880-msffbmqvgov7n6v5nfmvhakkt08gjgf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kiostzy</string>
+    <string name="underline"><u>Tracer Study | career center</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="webclientid">249084996880-k01q3sf35jg8hd8977ne60g3qu7kepvb.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/biru"
+    tools:context=".aboutusFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_marginTop="55dp"
+            android:layout_gravity="center"
+            android:layout_width="250dp"
+            android:layout_height="210dp"
+            android:background="@drawable/logo1">
+        </ImageView>
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="Hello, Android app developer Kiostzy, thank you for using our app."
+                android:layout_width="wrap_content"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="270dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="10dp"
+                android:text="Contact    |    Gmail"
+                android:layout_width="wrap_content"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content"/>
+            <LinearLayout
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="1dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:gravity="center"
+                    android:textSize="10dp"
+                    android:text="Micohari0@gmail.com"
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/grey"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:gravity="center"
+                    android:textSize="10dp"
+                    android:text="yramadhan934@gmail.com"
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/grey"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+            <TextView
+                android:layout_marginTop="1dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="10dp"
+                android:text="Copyright©  |  Company"
+                android:layout_width="wrap_content"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:layout_marginTop="1dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="10dp"
+                android:text="KiosTzy"
+                android:layout_width="wrap_content"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</FrameLayout>
